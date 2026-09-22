@@ -2,7 +2,7 @@
 
 **Desarrollador Backend** (principalmente Java) · Pereira, Colombia
 
-Casi 5 años construyendo servicios backend en sectores regulados (banca y salud): servicios sobre las arquitecturas ASO y APX para el sector financiero, participación en la salida a producción del pago diferido con Bre-B y mejoras al sistema de formulación y entrega de medicamentos en Audifarma.
+5 años de experiencia construyendo servicios backend en sectores regulados (banca y salud): servicios sobre las arquitecturas ASO y APX para el sector financiero, participación en la salida a producción del pago diferido con Bre-B y mejoras al sistema de formulación y entrega de medicamentos en Audifarma.
 
 **Stack:** Java · Spring Boot · Microservicios · APIs REST · SOAP · PostgreSQL · JUnit · Mockito · Maven · Docker · Jenkins
 
